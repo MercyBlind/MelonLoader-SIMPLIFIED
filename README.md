@@ -32,3 +32,23 @@ This is NOT my project, it is just a re-upload with an easier instruction Manuel
 
 # Mods
 You may drag PhasmoMelonMod into your mods folder and start the game, **DO NOT HAVE BOTH DLL'S IN THE MODS FOLDER AT THE SAME TIME WHEN STARTING PHASMOPHOBIA**
+
+# Hotkeys
+
+Menu Hotkeys :
+
+Arrow keys = ESP, FullBright, Basic info
+
+Right Ctrl, Del, Ins = Gui
+
+H = force hunt
+
+L = lock all doors
+
+O = force appear
+
+P = stop hunt/appear
+
+I = interaction
+
+U = unlock all doors 
