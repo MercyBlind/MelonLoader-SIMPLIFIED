@@ -31,4 +31,4 @@ This is NOT my project, it is just a re-upload with an easier instruction Manuel
 7: Open "3" and go to your phasmophobia directory, open -> **MelonLoader -> Dependencies -> AssemblyGenerator** and drag and drop MelonLoader.AssemblyGenerator in it from the folder "3" in winrar, drag it into the folder and replace it.
 
 # Mods
-You may drag PhasmoMelonMod into your mods folder and start the game, **DO NOT HAVE BOTH DLL'S IN THE MODS FOLDER AT THE SAME TIME WHEN STARTING PHASMOPHOBIA"
+You may drag PhasmoMelonMod into your mods folder and start the game, **DO NOT HAVE BOTH DLL'S IN THE MODS FOLDER AT THE SAME TIME WHEN STARTING PHASMOPHOBIA**
