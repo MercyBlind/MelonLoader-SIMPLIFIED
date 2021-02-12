@@ -45,14 +45,14 @@ Ins = Toggle Menu
 
 must **HAVE** troll features enabled within the menu it self
 
-H = force hunt
+H = force hunt <- (Buggy, will iniate hunting mode but may or may not actually kill players)
 
-L = lock all doors
+L = lock all doors <- Working
 
-O = force appear
+O = force appear <- Working
 
-P = stop hunt/appear
+P = stop hunt/appear <- (Buggy, 50% success rate of stopping normal hunt that is not forced)
 
-I = interaction
+I = interaction <- Working
 
-U = unlock all doors 
+U = unlock all doors <- Working
