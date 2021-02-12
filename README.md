@@ -10,9 +10,9 @@ This is NOT my project, it is just a re-upload with an easier instruction Manuel
 5: Press **Ok** And click install.
 6: Go back to your phasmophobia folder and you should see there are 3 folders that were created; MelonLoader, Mods, Logs
 # Setting Mods up
-1: Open **Bypass_Files_V7_Python.rar.rar**, Open Python fixed this for Gubna V7\n
-2: Install NET Frame work and VC_redistx64.exe if you have not installed either.\n
-3: Open "Modding Guides and Mods"\n
+1: Open **Bypass_Files_V7_Python.rar.rar**, Open Python fixed this for Gubna V7
+2: Install NET Frame work and VC_redistx64.exe if you have not installed either.
+3: Open "Modding Guides and Mods"
 4: Open "MelonLoader" folder and select "1"
 5: Drag Phasbypass.dll into your phasmophobia directory.
 6: Open "2" and drag PhasBypassInjector.dll and drag it into your **Mods** Folder in your phasmophobia directory
