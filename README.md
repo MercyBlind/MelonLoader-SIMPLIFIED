@@ -39,7 +39,11 @@ Menu Hotkeys :
 
 Arrow keys = ESP, FullBright, Basic info
 
-Right Ctrl, Del, Ins = Gui
+Ins = Toggle Menu
+
+# Troll hot keys :
+
+must **HAVE** troll features enabled within the menu it self
 
 H = force hunt
 
